@@ -1,11 +1,11 @@
 {
-    "Number":  269,
-    "Message":  "- Allow only 1 service client at a time\r\n- App title no longer show the full path\r\n- Add service retry policy by default\r\n- Fix pre-pairing issue between control and speed cards\r\n- Fix a bug with ADLX % (duty) reporting",
+    "Number":  270,
+    "Message":  "- Restart service option on exit\r\n- Bug fixes",
     "Checksums":  {
-                      "FanControl_4_8":  "31EC8253B1E35D294967A2EDCC510F9D",
-                      "FanControl_10_0":  "DC92670037EECC88F83EEF3C184E0C45",
-                      "FanControl_4_8_Installer":  "8AB79360C5F26E2BE195CF6E8EA1D0BA",
-                      "FanControl_10_0_Installer":  "D0123C203D0905F7D2E21E5A0062DEF6",
+                      "FanControl_4_8":  "150864CB5690B2C671484A68CB92787F",
+                      "FanControl_10_0":  "D9CDB00B2B29BB6112AC0C1624D0CCD8",
+                      "FanControl_4_8_Installer":  "57F2E51A6FE10CA2CC41CAF81EFD028A",
+                      "FanControl_10_0_Installer":  "1852EB9A9C83F0A6543C86C7457006C6",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
