@@ -1,11 +1,11 @@
 {
-    "Number":  270,
-    "Message":  "- Restart service option on exit\r\n- Bug fixes",
+    "Number":  271,
+    "Message":  "- Fix sensor names in service tray icons\r\n- Launching the service on exit will create a tray icon\r\n- Improved UI for RPM/% modes",
     "Checksums":  {
-                      "FanControl_4_8":  "150864CB5690B2C671484A68CB92787F",
-                      "FanControl_10_0":  "D9CDB00B2B29BB6112AC0C1624D0CCD8",
-                      "FanControl_4_8_Installer":  "57F2E51A6FE10CA2CC41CAF81EFD028A",
-                      "FanControl_10_0_Installer":  "1852EB9A9C83F0A6543C86C7457006C6",
+                      "FanControl_4_8":  "8DA23B7EC23121A0A3C57ECFAAFA3571",
+                      "FanControl_10_0":  "499C196C03D06C4780065BFA600880FD",
+                      "FanControl_4_8_Installer":  "AB059E1781DDD0821B3758116C628845",
+                      "FanControl_10_0_Installer":  "DA9A5EA38BDDED2CEB645813C1736E9D",
                       "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
                   }
 }
