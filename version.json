@@ -1,11 +1,11 @@
 {
-    "Number":  271,
-    "Message":  "- Fix sensor names in service tray icons\r\n- Launching the service on exit will create a tray icon\r\n- Improved UI for RPM/% modes",
+    "Number":  272,
+    "Message":  "- Update LibreHardwareMonitorLib\r\n- Fix some UI hover effects\r\n- Fix a bug where the service would try to start on windows shutdown.",
     "Checksums":  {
-                      "FanControl_4_8":  "8DA23B7EC23121A0A3C57ECFAAFA3571",
-                      "FanControl_10_0":  "499C196C03D06C4780065BFA600880FD",
-                      "FanControl_4_8_Installer":  "AB059E1781DDD0821B3758116C628845",
-                      "FanControl_10_0_Installer":  "DA9A5EA38BDDED2CEB645813C1736E9D",
-                      "Updater":  "8445CA16D4EC4D0791F71C025B56FF0C"
+                      "FanControl_4_8":  "38D32FB772E9D9E50DE63E4536383D05",
+                      "FanControl_10_0":  "A9609C29525F476C88D81B3B6E1951F1",
+                      "FanControl_4_8_Installer":  "EB080BE330A3329EBFC75A7FD59EA370",
+                      "FanControl_10_0_Installer":  "AED7A23E282E92A0338250331847919F",
+                      "Updater":  "283A6E745166CD3D495DBE9CD75BFD18"
                   }
 }
